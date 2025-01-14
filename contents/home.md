@@ -15,4 +15,4 @@ B.E., Data Science and Big Data Technology, China University of Mining and Techn
 Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
 
 #### CV
-
+<a href="static/assets/master%20thesis.pdf" download>Click to Download</a>
