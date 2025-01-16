@@ -11,7 +11,7 @@ Enumerative Geometry.
 #### Research statemant
 I completed both my undergraduate and master's programs at SUSTech, where I had the opportunity to learn from many great scholars. As a sophomore, I attended a seminar on algebraic geometry led by [Prof. Zhan Li](https://sites.google.com/site/mathzhanli/curriculum-vitae). This seminar was designed for beginners and served as an excellent introduction to the subject.
 
-During my master's program, under the supervision of [Prof. Longting Wu](https://longtingwu.github.io/), I focused on computing explicit formulas for several types of relative Gromov-Witten invariants. Building on the results of [Honglu Fan, Longting Wu, and Fenglong You](https://arxiv.org/abs/1907.07133), I explored explicit formulas for $P^1 \times P^1$, leveraging its symmetry. However, for general Hirzebruch surfaces, the partial differential equation (PDE) approach may ne inapplicable.
+During my master's program, under the supervision of [Prof. Longting Wu](https://longtingwu.github.io/), I focused on computing explicit formulas for several types of relative Gromov-Witten invariants. Building on the results of [Honglu Fan, Longting Wu, and Fenglong You](https://arxiv.org/abs/1907.07133), I explored explicit formulas for $P^1 \times P^1$, leveraging its symmetry. However, for general Hirzebruch surfaces, the partial differential equation (PDE) approach may inapplicable.
 
 When the PDE method reached its limits, we turned to the combinatorial techniques utilized by [Markus Reineke and Thorsten Weist](https://arxiv.org/abs/1803.07778). Due the GW/DT correspondence, counting curves in $P^2$ is equivalent to counting DT invariants of Kronecker quivers.
 
