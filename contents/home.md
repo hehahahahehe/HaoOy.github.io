@@ -6,7 +6,7 @@ hahehaha[at]student.ubc.ca
 Enumerative Geometry.
 
 #### CV
-<a href="static/assets/arasgungore_CV_main.pdf" download>Click to Download</a>
+<a href="static/assets/arasgungore_CV_main.pdf" target="_blank">Click to View</a>
 
 #### Research statemant
 I completed both my undergraduate and master's programs at SUSTech, where I had the opportunity to learn from many great scholars. As a sophomore, I attended a seminar on algebraic geometry led by [Prof. Zhan Li](https://sites.google.com/site/mathzhanli/curriculum-vitae). This seminar was designed for beginners and served as an excellent introduction to the subject.
